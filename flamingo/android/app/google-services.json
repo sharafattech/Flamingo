@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88981293537",
+    "project_id": "flamingo-852d4",
+    "storage_bucket": "flamingo-852d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88981293537:android:967a3916085c940f8c6aa0",
+        "android_client_info": {
+          "package_name": "com.startechnology.flamingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_E8KUxWeckH2oxF2mGe67lQRG0KoE6x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
